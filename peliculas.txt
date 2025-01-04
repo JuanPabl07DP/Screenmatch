@@ -1,0 +1,1 @@
+Nombre= 'Moana', fecha de lanzamiento= 2016, duración en minutos= 107
